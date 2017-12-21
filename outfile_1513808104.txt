@@ -1,0 +1,143 @@
+*****************************
+Trending : True
+Title :  b'Why Don\xe2\x80\x99t Most Americans Realize They\xe2\x80\x99re Getting Tax Cuts for Christmas?'
+Summa :  b"Most Americans will save money under the tax bill that the Senate passed Tuesday night and the House passed Wednesday.\nRelated Story 'God Made Republicans to Cut Taxes' Republican leaders insist that once people start seeing the benefits, their views on the taxes will turn around.\nPresident Trump\xe2\x80\x99s theory for unawareness about the impending tax cuts is unsurprising, since it\xe2\x80\x99s his standard explanation for all of his travails.\n\xe2\x80\x9cThe Tax Cuts are so large and so meaningful, and yet the Fake News is working overtime to follow the lead of their friends, the defeated Dems, and only demean,\xe2\x80\x9d Trump tweeted Wednesday morning.\nThis message had the virtue of being true, and it drowned out the GOP message of a tax cut for nearly everyone, at least in the immediate term."
+Keywords: ['theyre', 'cut', 'bills', 'americans', 'understand', 'cuts', 'tax', 'christmas', 'getting', 'dont', 'realize', 'bill', 'republicans', 'democrats', 'taxes', 'legislation']
+Tags    : set()
+Top_image: b'https://cdn.theatlantic.com/assets/media/img/mt/2017/12/RTX3R20R/facebook.jpg?1513795106'
+Top_img  : https://cdn.theatlantic.com/assets/media/img/mt/2017/12/RTX3R20R/facebook.jpg?1513795106
+Lang     : en
+Author   : ['David A. Graham']
+Meta des : b'Four out of five taxpayers will see their bills reduced in 2018, but few of them expect to see the cash.'
+*****************************
+Trending : True
+Title :  b'The Trojan Horse in the Tax Bill'
+Summa :  b'But that requires help from Democrats, who have been completely shut out of tax reform and may have little appetite for cooperation.\nMany Republicans have claimed that the tax bill won\xe2\x80\x99t cost the government any extra money.\nWill the tax bill \xe2\x80\x9chelp on the margin?\ngrowth over the next 10 years from tax reform, we have to have welfare reform,\xe2\x80\x9d according to Rod Blum, Republican of Iowa.\nThe tax bill isn\xe2\x80\x99t just a regressive giveaway to corporations and the rich.'
+Keywords: ['programs', 'ryan', 'welfare', 'work', 'republican', 'reform', 'tax', 'mr', 'bill', 'horse', 'spending', 'trojan']
+Tags    : set()
+Top_image: b'https://static01.nyt.com/images/2017/12/21/opinion/20covert1/20covert1-facebookJumbo.jpg'
+Top_img  : https://static01.nyt.com/images/2017/12/21/opinion/20covert1/20covert1-facebookJumbo.jpg
+Lang     : en
+Author   : ['Bryce Covert']
+Meta des : b'Paul Ryan gets what he wanted.'
+*****************************
+Trending : False
+Title :  b'Judges Erase One-Vote Lead In Virginia, Throwing State Politics Into Disarray'
+Summa :  b'Judges Erase One-Vote Lead In Virginia, Throwing State Politics Into DisarrayEnlarge this image toggle caption Jahi Chikwendiu/The Washington Post/Getty Images Jahi Chikwendiu/The Washington Post/Getty ImagesFor 20-odd hours, Virginia Democrats were giddy with the news that a recount had delivered Shelly Simonds a seat in the House of Delegates with a victory margin of a single vote.\nRepublican leaders issued a statement congratulating Simonds.\nDemocrats responded with a statement that the panel\'s decision "was wrong, and Delegate-elect Shelly Simonds should have been certified the winner."\nParty leaders said they are assessing their legal options, pointing out that "[t]he Republicans themselves had affirmed that this result was accurate yesterday before changing their minds today."\nIn other words, it appears likely that control of Virginia\'s House of Delegates will come down to a game of chance.'
+Keywords: ['erase', 'disarray', 'party', 'republican', 'state', 'leaders', 'house', 'delegates', 'virginia', 'judges', 'shelly', 'lead', 'onevote', 'simonds', 'recount', 'politics', 'vote', 'throwing']
+Tags    : {'Virginia', 'Recount', '2017 elections'}
+Top_image: b'https://media.npr.org/assets/img/2017/12/20/gettyimages-632885824_wide-e7fb82e5f72a4d33e90a23b01b26ddd991f26aaa.jpg?s=1400'
+Top_img  : https://media.npr.org/assets/img/2017/12/20/gettyimages-632885824_wide-e7fb82e5f72a4d33e90a23b01b26ddd991f26aaa.jpg?s=1400
+Lang     : en
+Author   : ['Brett Neely']
+Meta des : b'State law says in the event of a tie, the state election board shall "determine by lot which of the candidates shall be declared elected."'
+*****************************
+Trending : False
+Title :  b"Control of Virginia's Legislature May Come Down to Drawing Lots"
+Summa :  b'That would have cost Republicans their majority in the House of Delegates, creating a tie for control of the lower chamber of the state legislature.\nVirginia law stipulates that the state board of elections will draw lots to determine who wins in the event of a tie.\nVirginia has long been labeled a swing state, but the recent election results may indicate that the state is becoming more favorable for Democrats.\nIn 2011, however, Democrats lost the Virginia Senate, and Republicans continued to have an edge in the upper legislative chamber.\nOver the course of Obama\xe2\x80\x99s presidency, Democrats also lost a total of 11 seats in the House of Delegates.'
+Keywords: ['recent', 'swing', 'state', 'states', 'republican', 'race', 'virginias', 'house', 'control', 'virginia', 'lots', 'come', 'legislature', 'democrats', 'delegates', 'drawing']
+Tags    : set()
+Top_image: b'https://cdn.theatlantic.com/assets/media/img/mt/2017/12/Ralph_Northam/facebook.jpg?1513789021'
+Top_img  : https://cdn.theatlantic.com/assets/media/img/mt/2017/12/Ralph_Northam/facebook.jpg?1513789021
+Lang     : en
+Author   : ['Clare Foran']
+Meta des : b'After a three-judge panel awarded a contested vote to the Republican candidate, the GOP\xe2\x80\x99s nearly two-decade hold on the House of Delegates likely rests on a random draw.'
+*****************************
+Trending : False
+Title :  b'Mich. gets 6th straight year of population growth'
+Summa :  b'(Photo: John T. Greilick / The Detroit News)Buy PhotoMore people moved to Michigan than left the state in 2017, leading to its sixth straight year of population growth.\nU.S. Census data released Wednesday found that the state\xe2\x80\x99s residents increased by 28,866, or 0.3 percent, to 9,962,311 as of July 2017.\nThis year\xe2\x80\x99s overall state gain was almost two times that of a year ago.\nIn 2016, the state\xe2\x80\x99s population grew by 15,275 or 0.2 percent, according to estimates.\n\xe2\x80\x9cI am excited our state\xe2\x80\x99s population has grown for the sixth straight year,\xe2\x80\x9d Gov.'
+Keywords: ['according', '2017', 'michigan', 'gain', 'residents', 'gets', 'state', 'population', 'mich', 'straight', 'growth', 'states', '6th', 'census', 'thats']
+Tags    : set()
+Top_image: b'https://www.gannett-cdn.com/-mm-/9a17e22a0d35d6ff321f33970d33c26e964a9f58/c=0-204-3578-2217&r=x1683&c=3200x1680/local/-/media/2017/12/20/DetroitNews/B99610663Z.1_20171220121121_000_G6N1PP9SR.1-0.jpg'
+Top_img  : https://www.gannett-cdn.com/-mm-/9a17e22a0d35d6ff321f33970d33c26e964a9f58/c=0-204-3578-2217&r=x1683&c=3200x1680/local/-/media/2017/12/20/DetroitNews/B99610663Z.1_20171220121121_000_G6N1PP9SR.1-0.jpg
+Lang     : en
+Author   : ['Christine Macdonald', 'The Detroit News', 'Published A.M. Et Dec.']
+Meta des : b'U.S. Census data released Wednesday found that state\xe2\x80\x99s population increased 0.3 percent'
+*****************************
+Trending : False
+Title :  b'Glenn Thrush Suspended by New York Times for 2 Months, Removed From White House Beat'
+Summa :  b'New York Times has announced that political reporter Glenn Thrush has been suspended for two months, and removed from his perch at the White House.\nInstead, we have suspended him for two months and removed him from the White House beat,\xe2\x80\x9d the paper said in a statement.\nIn addition, Glenn is undergoing counseling and substance abuse rehabilitation on his own.\n\xe2\x80\x9cI want to make sure you don\xe2\x80\x99t lure young women aspiring journalists into those situations ever again.\nSince their original report on Harvey Weinstein, The New York Times has led the way in exposing some of the most high profile cases of sexual misconduct in Hollywood, media and politics.'
+Keywords: ['months', 'times', 'suspended', 'reporter', 'thrush', 'glenn', 'addition', 'women', 'house', 'white', 'beat', 'accusations', 'york', 'removed', 'young']
+Tags    : {'SAG Awards', 'Movie Reviews', 'Box Office', 'Golden Globes', 'It', 'Emmys', 'AR / VR', 'Twin Peaks', 'Ratings', 'Oscars'}
+Top_image: b'https://www.thewrap.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-20-at-10.45.38-AM.png'
+Top_img  : https://www.thewrap.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-20-at-10.45.38-AM.png
+Lang     : en
+Author   : ['Jon Levine', 'Ashley Boucher', 'Reid Nakamura']
+Meta des : b'"While we believe that Glenn has acted offensively, we have decided that he does not deserve to be fired," reads a statement from the paper'
+*****************************
+Trending : False
+Title :  b'SNAP urges Pope: No \xe2\x80\x98celebratory focus\xe2\x80\x99 for Law\xe2\x80\x99s funeral Mass'
+Summa :  b'ROME \xe2\x80\x94 An advocacy group for survivors of sex abuse is calling for Pope Francis to keep survivors in mind when he takes part in Cardinal Bernard Law\xe2\x80\x99s funeral Mass on Thursday.\nIn a statement, SNAP\xe2\x80\x99s Joelle Casteix said Catholics should ask the Vatican why Law was promoted to a prominent position at a Vatican basilica after he resigned in disgrace as Boston\xe2\x80\x99s archbishop.\nShe said: \xe2\x80\x9cThis celebratory focus on abuse enablers like Law must end.\nFrancis though is expected to send an official telegram of condolence later Wednesday and celebrate Law\xe2\x80\x99s funeral Mass, an honor accorded to all Rome-based cardinals.\nFrancis met briefly with Law the day after he was elected pope, when he went to pray at St. Mary Major.'
+Keywords: ['celebratory', 'mass', 'cardinal', 'snap', 'abuse', 'priests', 'boston', 'funeral', 'basilica', 'laws', 'vatican', 'children', 'urges', 'focus', 'pope', 'law']
+Tags    : {'SNAP', 'clergy sex abuse', 'Archdiocese of Boston', 'Cardinal Bernard Law', 'Pope Francis'}
+Top_image: b'https://cruxnow.com/wp-content/uploads/2017/12/2055b2ea4712489052deac46ff14ab11.jpeg'
+Top_img  : https://cruxnow.com/wp-content/uploads/2017/12/2055b2ea4712489052deac46ff14ab11.jpeg
+Lang     : en
+Author   : ['Associated Press']
+Meta des : b"An advocacy group for survivors of sex abuse, SNAP, is calling for Pope Francis to keep survivors in mind when he takes part in Cardinal Bernard Law's funeral Mass. Law died Wednesday, Dec. 20 after a long illness."
+*****************************
+Trending : False
+Title :  b"'U.S. Will Be Taking Names' Of U.N. Votes On Jerusalem Resolution"
+Summa :  b'Votes On Jerusalem ResolutionEnlarge this image toggle caption Drew Angerer/Getty Images Drew Angerer/Getty ImagesThe United Nations will vote in an emergency session Thursday on a draft resolution that criticizes President Trump\'s decision to move the U.S. Embassy to Jerusalem.\nBut as the Trump administration is making clear, any country that votes in favor of the resolution could face retaliation from the U.S.\nThe United States ambassador to the U.N. Nikki Haley sent a letter of warning to most of the U.N.\'s 193 member states, the Associated Press reports.\n"We expect strong support at the UN vote, but we see that the United States, which was left alone, is now resorting to threats.\nPalestinian Foreign Minister Riyad Maliki said member states "will vote for justice, and they will vote in favor of that resolution," the AP reports.'
+Keywords: ['states', 'nations', 'embassy', 'votes', 'united', 'taking', 'resolution', 'names', 'jerusalem', 'decision', 'trump', 'member', 'vote']
+Tags    : {'Israel', 'Jerusalem', 'Nikki Haley', 'Donald Trump', 'United Nations'}
+Top_image: b'https://media.npr.org/assets/img/2017/12/20/gettyimages-894912042_wide-dd48e957bb0f2816cacd359af2c5ab8440407249.jpg?s=1400'
+Top_img  : https://media.npr.org/assets/img/2017/12/20/gettyimages-894912042_wide-dd48e957bb0f2816cacd359af2c5ab8440407249.jpg?s=1400
+Lang     : en
+Author   : ['Laurel Wamsley']
+Meta des : b'"We\'re watching those votes," Trump said, threatening to cut aid to countries who vote in favor of the resolution. "Let them vote against us. We\'ll save a lot. We don\'t care."'
+*****************************
+Trending : False
+Title :  b'Trump threatens to cut aid to U.N. members over Jerusalem vote'
+Summa :  b'WASHINGTON/UNITED NATIONS (Reuters) - U.S. President Donald Trump on Wednesday threatened to cut off financial aid to countries that vote in favor of a draft United Nations resolution calling for the United States to withdraw its decision to recognize Jerusalem as Israel\xe2\x80\x99s capital.\n\xe2\x80\x9cThey take hundreds of millions of dollars and even billions of dollars, and then they vote against us.\nThe remaining 14 Security Council members voted in favor of the Egyptian-drafted resolution, which did not specifically mention the United States or Trump but which expressed \xe2\x80\x9cdeep regret at recent decisions concerning the status of Jerusalem.\xe2\x80\x9dU.S.\n\xe2\x80\x9cI like the message that Nikki sent yesterday at the United Nations, for all those nations that take our money and then they vote against us at the Security Council, or they vote against us potentially at the assembly,\xe2\x80\x9d Trump said.\nA senior European diplomat, speaking on condition of anonymity, agreed Haley was unlikely to sway many U.N. states.'
+Keywords: ['cut', 'threatens', 'diplomat', 'states', 'senior', 'nations', 'assembly', 'votes', 'united', 'haley', 'aid', 'jerusalem', 'trump', 'members', 'vote']
+Tags    : set()
+Top_image: b'https://s3.reutersmedia.net/resources/r/?m=02&d=20171220&t=2&i=1215962594&w=1200&r=LYNXMPEDBJ1GJ'
+Top_img  : https://s3.reutersmedia.net/resources/r/?m=02&d=20171220&t=2&i=1215962594&w=1200&r=LYNXMPEDBJ1GJ
+Lang     : en
+Author   : ['Reuters Editorial', 'Min Read']
+Meta des : b"U.S. President Donald Trump on Wednesday threatened to cut off financial aid to countries that vote in favor of a draft United Nations resolution calling for the United States to withdraw its decision to recognize Jerusalem as Israel's capital."
+*****************************
+Trending : False
+Title :  b'Why Rabbinical Students Erred in Blasting Trump'
+Summa :  b'Dear Jewish Theological Seminary and Schechter Rabbinical Seminary students whose open letter condemned America\xe2\x80\x99s long overdue recognition of Jerusalem as Israel\xe2\x80\x99s capital as \xe2\x80\x9creckless\xe2\x80\x9d and \xe2\x80\x9ccounterproductive,\xe2\x80\x9d Your letter stunned me.\nIsrael and Zionism are what the feminist Zionist Letty Cottin Pogrebin calls a \xe2\x80\x9cpositive we.\xe2\x80\x9d They affirm identity more than react to oppression.\nFor young American Jews \xe2\x80\x93 or any sane creatures \xe2\x80\x93 condemning US President Donald Trump takes no courage.\nA Conservative seminary should be open-minded enough to learn from everyone but not so open it stands for nothing.\nHis forthcoming book, The Zionist Ideas, which updates Arthur Hertzberg\xe2\x80\x99s classic work, will be published by The Jewish Publication Society in Spring 2018.'
+Keywords: ['israels', 'jews', 'israel', 'blasting', 'zionist', 'zionism', 'seminary', 'rabbinical', 'students', 'erred', 'dont', 'jewish', 'jerusalem', 'trump', 'conservative']
+Tags    : {'Sleep + Wellness', "What's Working: Purpose + Profit", 'Music', 'Battleground', 'The Power of Humanity', 'Movies', 'Good News', 'The Scope', 'Relationships', 'Congress', 'Donald Trump', 'Finds', 'Reclaim', 'Asian Voices', 'Outspeak', 'Backspace', 'Health Care', 'Project Zero', 'Podcasts & Audio'}
+Top_image: b'https://img.huffingtonpost.com/asset/5a3abe89150000164449ccad.jpg?ops=1910_1000'
+Top_img  : https://img.huffingtonpost.com/asset/5a3abe89150000164449ccad.jpg?ops=1910_1000
+Lang     : en
+Author   : ['Gil Troy', 'American Presidential Historian', 'Mcgill Professor']
+Meta des : b'How can you confuse recognizing Jerusalem with seeking peace? \n  \n Dear Jewish Theological Seminary and Schechter Rabbinical Seminary students whose ...'
+*****************************
+Trending : True
+Title :  b'Damian Green and the history of a pornography scandal'
+Summa :  b'Late 2008Police find \xe2\x80\x9cextreme\xe2\x80\x9d pornographic material on one of the Commons computers of Damian Green during an inquiry into the leaks.\n24 April 2009Home office civil servant Christopher Galley is sacked for leaking information to Damian Green on the grounds of gross professional misconduct.\nGreen, almost 30 years older than Maltby, is an acquaintance of her parents and the pair had met previously.\nThe same day May orders an investigation by the cabinet secretary, Sir Jeremy Heywood, into the claims.\nStrongly denying the pornography allegations last month, Green called Quick a \xe2\x80\x9ctainted and untrustworthy source\xe2\x80\x9d.'
+Keywords: ['green', 'leaks', 'damian', 'met', 'investigation', 'maltby', 'secretary', 'scandal', 'history', 'inquiry', 'cabinet', 'pornography', 'quick', 'office']
+Tags    : set()
+Top_image: b'https://i.guim.co.uk/img/media/45ebec9ffefb029fb1d813446176501e70aed594/0_67_3500_2100/master/3500.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&s=d65e5a33fc39057da60c85cd64a776ea'
+Top_img  : https://i.guim.co.uk/img/media/45ebec9ffefb029fb1d813446176501e70aed594/0_67_3500_2100/master/3500.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&crop=faces%2Centropy&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&s=d65e5a33fc39057da60c85cd64a776ea
+Lang     : en
+Author   : ['Haroon Siddique', 'Patrick Greenfield']
+Meta des : b'Tory minister has resigned after an investigation into claims of inappropriate behaviour and pornography found on a computer in his Commons office'
+*****************************
+Trending : False
+Title :  b'Poland Adopts Judicial Overhaul, Escalating Clash With European Union'
+Summa :  b'They aren\xe2\x80\x99t some extraordinary caste; they are servants of the Polish people.\xe2\x80\x9dHe said the laws would make the Polish justice system more efficient and enhance confidence in the courts.\nJaroslaw Flis, a political analyst and sociologist at the Jagiellonian University in Krakow, said the standoff between the Polish government and the European Union was becoming increasingly dangerous.\nPhotoThe dispute between Poland and other members of the European Union has been building for more than two years, since the populist Law and Justice party swept into power promising to rid Poland of corruption and the remnants of communism.\nWhen President Trump visited Poland in July, controversy about the judicial overhaul was swirling and his speech was widely interpreted as emboldening the right-wing government.\nPoland is the biggest net beneficiary of financial aid from the European Union.'
+Keywords: ['europe', 'adopts', 'overhaul', 'party', 'justice', 'clash', 'leaders', 'escalating', 'european', 'laws', 'poland', 'judicial', 'law', 'polish', 'union']
+Tags    : set()
+Top_image: b'https://static01.nyt.com/images/2017/12/21/world/21poland5/21poland5-facebookJumbo.jpg'
+Top_img  : https://static01.nyt.com/images/2017/12/21/world/21poland5/21poland5-facebookJumbo.jpg
+Lang     : en
+Author   : ['Marc Santora', 'Joanna Berendt']
+Meta des : b'Critics say the law is an assault on democracy and the rule of law. The right-wing government\xe2\x80\x99s move could lead to sanctions, including the suspension of E.U. voting rights.'
+*****************************
+Trending : False
+Title :  b'Mistrial declared in Cliven Bundy standoff case'
+Summa :  b'LAS VEGAS - A federal judge Wednesday declared a mistrial in the prosecution of Nevada cattleman Cliven Bundy, his two sons and a co-defendant, citing the government\'s "willful\'\' failure to turn over multiple documents that could help the defense fight conspiracy and assault charges in the 2014 Bunkerville standoff.\nDefense lawyers are expected to challenge any effort to retry Cliven Bundy, Ammon Bundy, his older brother Ryan Bundy and Payne, arguing that it was the government\'s failure to share relevant evidence before trial that caused the mistrial and trying it again would amount to double jeopardy.\nCliven Bundy\'s lawyer Bret Whipple said he would submit an emergency motion to request Cliven Bundy\'s release from jail without any conditions.\nCliven Bundy won\'t leave until he has no conditions restricting him.\n"We believe also built in her statements was the fact that it was prejudicial, that it was malicious or reoccurring, and this will be the end of the Bundy trial.\'\''
+Keywords: ['mistrial', 'standoff', 'public', 'case', 'cliven', 'trial', 'snipers', 'bundys', 'federal', 'declared', 'bundy', 'land', 'fbi', 'judge']
+Tags    : {'Advice', 'Sports on TV'}
+Top_image: b'http://image.oregonlive.com/home/olive-media/width620/img/oregonian/photo/2016/03/10/19923168-standard.jpg'
+Top_img  : http://image.oregonlive.com/home/olive-media/width620/img/oregonian/photo/2016/03/10/19923168-standard.jpg
+Lang     : en
+Author   : ['Maxine Bernstein', 'The Oregonian Oregonlive', 'Mbernstein Oregonian.Com']
+Meta des : b''
