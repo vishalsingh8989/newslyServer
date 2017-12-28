@@ -15,10 +15,10 @@ from newspaper.configuration import Configuration
 if __name__ == "__main__":
 	#pass config = Configuration()
 	config = Configuration()
-	config.memoize_articles = False # True in production
-	config.MAX_AUTHORS = 1
+	config.memoize_articles = True # True in production
+	config.MAX_AUTHORS = 2
 	config.MIN_WORD_COUNT = 300
-	config.MAX_SUMMARY  = 900
+	#config.MAX_SUMMARY  = 900 on text .Not on summary . dont use it
 	#TODO : Have a separate ArticleConfig and SourceConfig extend this!
 
 	builder = NewsBuilder(config)
