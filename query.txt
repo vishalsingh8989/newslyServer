@@ -1,0 +1,75 @@
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("huffingtonpost", "Huffington Post", """https://s.m.huffpost.com/assets/favicon-2020e123c064086aad150fe909c53771f862d7c76cd62f6146e81d533845fd7d.ico""", """http://www.huffingtonpost.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("cnn", "CNN", """http://www.cnn.com/favicon.ie9.ico""", """http://cnn.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("nypost", "New York Post", """https://secure.gravatar.com/blavatar/0b14d9dbf0c711522a906102b60f3da0?s=32""", """http://www.nypost.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("bbc", "BBC", """http://www.bbc.com/favicon.ico""", """http://www.bbc.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("usatoday", "USA Today", """https://www.gannett-cdn.com/sites/usatoday/images/favicon.png""", """http://usatoday.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("time", "Time", """https://s0.wp.com/wp-content/themes/vip/time2014/img/time-favicon.ico""", """http://www.time.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("ted", "TED Talks", """https://pa.tedcdn.com/favicon.ico""", """http://www.ted.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("cnbc", "CNBC", """https://www.cnbc.com/favicon.ico""", """http://www.cnbc.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("pcmag", "PCMag", """https://www.pcmag.com/favicon.ico""", """http://www.pcmag.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("foxnews", "Fox News", """http://www.foxnews.com/favicon.ico""", """http://www.foxnews.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("espn", "ESPN", """http://www.espn.com/favicon.ico""", """http://espn.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("wsj", "The Wall Street Journal", """https://s.wsj.net/media/wsj_apple-touch-icon-180x180.png""", """http://wsj.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("nytimes", "The New York Times", """https://static01.nyt.com/images/icons/ios-ipad-144x144.png""", """http://nytimes.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("nbcnews", "NBC News", """https://nodeassets.nbcnews.com/31533d28.favicon.ico""", """http://www.nbcnews.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("vanityfair", "VANITY FAIR", """https://www.vanityfair.com/favicon.ico""", """http://www.vanityfair.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("techcrunch", "TechCrunch", """https://s0.wp.com/wp-content/themes/vip/techcrunch-2013/assets/images/favicon.ico""", """http://techcrunch.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("vogue", "Vogue", """https://www.vogue.com/wp-content/config/favicons/favicon.ico""", """http://www.vogue.co.uk""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("theverge", "The Verge", """https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png""", """http://www.theverge.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("tmz", "TMZ", """https://assets.tmz.com/www.tmz.com/main/default/favicon.png""", """http://www.tmz.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("latimes", "Los Angeles Times", """http://www.latimes.com/favicon.ico""", """http://www.latimes.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("polygon", "Polygon", """https://cdn.vox-cdn.com/community_logos/42931/favicon.ico""", """http://www.polygon.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("reuters", "Reuters", """https://s3.reutersmedia.net/resources_v2/images/favicon/favicon-96x96.png""", """http://www.reuters.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("rollingstone", "Rolling Stone", """https://assets.wennermedia.com/rollingstone/img/favicon/apple-touch-icon.png""", """https://www.rollingstone.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("cnet", "C|NET", """http://13.58.159.13/newslyWeb/images/cnet.png""", """https://www.cnet.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("ign", "IGN", """http://media.ignimgs.com/media/ign/apple-touch-icon.png""", """http://www.ign.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("seattletimes", "The Seattle Times", """https://www.seattletimes.com/favicon.ico""", """https://www.seattletimes.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("washingtonpost", "The Washington Post", """https://www.washingtonpost.com/favicon.ico""", """https://www.washingtonpost.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("foxsports", "Fox Sports", """
+https://b.fssta.com/sta/images/152x152.png""", """https://www.foxsports.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("nymag", "New York Magazine", """http://cache.nymag.com/media/nymag/icon.196x196.png""", """http://nymag.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("telegraph", "The Telegraph", """http://www.telegraph.co.uk/etc/designs/telegraph/core/clientlibs/core/icons/favicon-152x152.png""", """http://www.telegraph.co.uk/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("businessinsider", "Business Insider", """http://static3.businessinsider.com/assets/images/us/favicons/favicon.ico?v=BI-US-2017-06-22""", """http://www.businessinsider.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("deadspin", "Dead Spin", """https://i.kinja-img.com/gawker-media/image/upload/s--hYvXo8Vk--/c_fill,fl_progressive,g_center,h_80,q_80,w_80/rnxqtvv6advgidzfs6am.png""", """https://deadspin.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("cbsnews", "CBS News", """https://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/favicon-32x32.png?v=59a30cbcf777ad3bb4122d780e977e93265d8276""", """https://www.cbsnews.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("thedailybeast", "The Daily Beast", """https://www.thedailybeast.com/static/images/favicon.3b3165d8.ico?v=1""", """https://www.thedailybeast.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("people", "People.com", """http://0.gravatar.com/blavatar/a39c9d87d3ee529a684f7a5b3b557adc?s=114""", """http://people.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("msn", "msn.com", """http://0.gravatar.com/blavatar/a39c9d87d3ee529a684f7a5b3b557adc?s=114""", """http://msn.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("dailymail", "Daily Mail", """http://www.dailymail.co.uk/favicon.ico""", """http://www.dailymail.co.uk/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("abcnews", "ABC News", """http://abcnews.go.com/favicon.ico""", """http://abcnews.go.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("billboard", "BillBoard", """https://www.billboard.com/assets/1513814938/images/BB_favicon144.png?b6cf9ba72ee261c492aa""", """https://www.billboard.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("vice", "Vice", """https://vice-news-statics-cdn.vice.com/static/images/favicon-196x196.png""", """https://news.vice.com/en_us""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("hollywoodreporter", "Hollywood Reporter", """http://13.58.159.13/newslyWeb/images/thr.png""", """https://www.hollywoodreporter.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("arstechnica", "Ars Technica", """https://cdn.arstechnica.net/wp-content/themes/ars/assets/img/material-ars-db41652381.png""", """https://arstechnica.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("nba", "NBA", """http://cdn.nba.net/assets/icons/apple-touch-icon.png""", """http://www.nba.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("denverpost", "The Denver Post", """https://www.denverpost.com/wp-content/uploads/2016/05/cropped-DP_bug_denverpost.jpg?w=192""", """https://www.denverpost.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("engadget", "Engadget", """https://s.blogsmithmedia.com/www.engadget.com/assets-h0dae4a3add4c931c7ce9f5a2f51639aa/images/apple-touch-icon-144x144.png?h=de656b4889f628881dabd59b88d24460""", """https://www.engadget.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("techspot", "TECHSPOT", """https://static.techspot.com/images/favicon30.ico""", """https://www.techspot.com""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("variety", "Variety", """http://0.gravatar.com/blavatar/8181b523e3c891bc770494a0bbbe8244?s=114""", """http://variety.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("cosmopolitan", "Cosmopolitan", """http://www.cosmopolitan.com//sites/cosmopolitan/assets/images/favicon.ico""", """http://www.cosmopolitan.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("npr", "NPR", """https://media.npr.org/templates/favicon/favicon-180x180.png""", """https://www.npr.org/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("politico", "Politico", """https://static.politico.com/dims4/default/bd69088/2147483647/legacy_thumbnail/144x144/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fcf%2F05%2Fee684a274496b04fa20ba2978da1%2Fpolitico.png
+""", """https://www.politico.com/""")
+INSERT INTO brandinfo (code, name , meta_favicon, source_url) VALUES ("topspeed", "Topspeed", """https://pictures.topspeed.com/apple-touch-icon-144x144.png""", """https://www.topspeed.com/""")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
