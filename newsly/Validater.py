@@ -69,12 +69,12 @@ class Validate():
 		if article.top_image == '' or article.top_image is None:
 			ERROR = INVALID_TOP_IMAGE
 		if article.publish_date is None or article.publish_date == '':
-			print("Invalid publish date: %s"%article.publish_date)
-			#ERROR = INVALID_PUB_DATE
-			article.publish_date = datetime.datetime.now() - datetime.timedelta(seconds= random.randint(3*3600 , 10*3600))
+			#print("Invalid publish date: %s"%article.publish_date)
+			ERROR = INVALID_PUB_DATE
+			#article.publish_date = datetime.datetime.now() - datetime.timedelta(seconds= random.randint(3*3600 , 10*3600))
 			#setattr(article, publish_date, datetime.datetime.now())
-			print("set : %s"%article.publish_date)
-			time.sleep(1)
+			#print("set : %s"%article.publish_date)
+			#time.sleep(1)
 		if not article.is_parsed:
 			ERROR = INVALID_PARSE
 		

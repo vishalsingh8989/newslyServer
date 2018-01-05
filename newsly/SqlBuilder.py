@@ -22,7 +22,7 @@ class SqlBuilder:
 		hashstring = title
 		m.update(hashstring.encode('utf-8'))
 		id = m.hexdigest()
-		print(publish_date)
+		#print(publish_date)
 
 		sql = INSERTQUERY%(id,r''+summary.replace("'", "\\'").replace("\"","\\").replace("<p>", "").replace("</p>",""),
 		                         r''+title.replace("'", "\\'").replace("\"","\\"),
@@ -43,5 +43,6 @@ class SqlBuilder:
 			cursor.execute(sql)
 			conn.commit()
 		except Exception as err:
-			print("Mysql error :  %s"%err)
+			pass
+			#print("Mysql error :  %s"%err)
         	

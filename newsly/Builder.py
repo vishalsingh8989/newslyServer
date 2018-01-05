@@ -68,7 +68,7 @@ class NewsBuilder():
 			obj_article_list = paper.articles
 			article_count = 0
 			for obj_article in obj_article_list:
-				print(obj_article.url)
+				#print(obj_article.url)
 				if article_count == 100:
 					break
 				try:
@@ -90,15 +90,18 @@ class NewsBuilder():
 			#run conitnuosly and learn category ML.
 			#extract videos using video extarcter
 				article_count+=1
-				print("******************************")
-				print(obj_article.movies)
+				#print("******************************")
+				#print(obj_article.movies)
+				
 				#print("Title :  %s\n"%obj_article.title.encode('utf-8'))
 				if self.news_validater.validate_article(obj_article):
-					is_trending = Trending.is_trending(obj_article, self.trends, False)
+					is_trending = Trending.is_trending(obj_article, self.trends, True)
+					print("**********************************")
+					print(obj_article.title)
 					tags = obj_article.tags
 					
 #conn,summary, title, brand,article_url, top_image ,authors, publish_date, language, country, category, tags,is_trending ):
-
+					
 					SqlBuilder.add(conn,
 						obj_article.summary, 
 						obj_article.title, 
@@ -110,7 +113,7 @@ class NewsBuilder():
 						obj_article.meta_lang, 
 						"us", 
 						FAKE_CATEGORY[random.randint(0, 6)],
-						","join(obj_article.keywords), 
+						",".join(obj_article.keywords), 
 						is_trending)
 
 					# SqlBuilder.add(conn, obj_article.summary, 
